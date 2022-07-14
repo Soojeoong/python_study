@@ -8,3 +8,4 @@
 	* [단축키](./단축키.md)
 	* [마크다운 방법](./마크다운.md)
 	* [print 차이](./연습1.ipynb)
+	* [numpy](./Numpy.ipynb)
