@@ -10,3 +10,4 @@
 	* [print 차이](./코드/연습1.ipynb)
 	* [numpy](./코드/Numpy.ipynb)
 	* [pandas](./코드/Pandas.ipynb)
+	* [pandas 2](./코드/Pandas2.ipynb)
