@@ -13,3 +13,4 @@
 	* [pandas 2](./코드/Pandas2.ipynb)
 * 3️⃣ DataFrame
 	* [DataFrame 인덱싱](./코드/DataFrame인덱싱.ipynb)
+	* [데이터 변형하기](./코드/데이터 변형하기.ipynb)
